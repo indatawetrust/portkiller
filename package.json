@@ -1,12 +1,16 @@
 {
   "name": "portkiller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "port killer.",
   "main": "index.js",
   "keywords": [
     "port",
     "killer"
   ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/indatawetrust/portkiller.git"
+  },
   "bin" : {
     "poki" : "index.js"
   },
