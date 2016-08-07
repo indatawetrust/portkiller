@@ -1,3 +1,3 @@
 ### port killer
 
-#### npm install -g poki
+#### npm install -g portkiller
