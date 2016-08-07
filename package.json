@@ -1,0 +1,15 @@
+{
+  "name": "portkiller",
+  "version": "1.0.0",
+  "description": "port killer.",
+  "main": "index.js",
+  "keywords": [
+    "port",
+    "killer"
+  ],
+  "bin" : {
+    "poki" : "index.js"
+  },
+  "author": "indatawetrust",
+  "license": "ISC"
+}
