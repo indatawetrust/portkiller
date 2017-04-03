@@ -1,6 +1,6 @@
 {
   "name": "portkiller",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "port killer.",
   "main": "index.js",
   "keywords": [

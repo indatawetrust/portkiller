@@ -7,7 +7,7 @@ const killer = (port) => {
 
   new Promise(( resolve,reject ) => {
 
-    exec(`lsof -n -i4TCP:${port} | grep LISTEN`, (err, out, stderr) => {
+    exec(`lsof -i :${port} | grep LISTEN`, (err, out, stderr) => {
       const match = out.split(' ').filter(m => m.length)
       
       if ( match.length) {
