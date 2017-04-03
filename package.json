@@ -1,6 +1,6 @@
 {
   "name": "portkiller",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "port killer.",
   "main": "index.js",
   "keywords": [
@@ -12,7 +12,7 @@
     "url": "http://github.com/indatawetrust/portkiller.git"
   },
   "bin" : {
-    "poki" : "index.js"
+    "pokill" : "index.js"
   },
   "author": "indatawetrust",
   "license": "ISC"

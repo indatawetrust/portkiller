@@ -1,3 +1,9 @@
-### port killer
+#### port killer
 
-#### npm install -g portkiller
+##### npm install -g portkiller
+
+usage:
+
+```
+$ pokill :port
+```
